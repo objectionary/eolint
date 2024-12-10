@@ -173,3 +173,11 @@
 # Test.
 [] > chicken-as-expected
   42 > @
+
+# Test
+[] > please-reboot
+  42 > @
+
+# Test.
+[] > hope-it-works
+  42 > @

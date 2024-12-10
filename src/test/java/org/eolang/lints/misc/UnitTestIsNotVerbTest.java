@@ -52,7 +52,7 @@ final class UnitTestIsNotVerbTest {
                     )
                 ).parsed()
             ),
-            Matchers.hasSize(38)
+            Matchers.hasSize(40)
         );
     }
 
